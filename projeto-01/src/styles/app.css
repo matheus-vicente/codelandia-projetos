@@ -1,0 +1,16 @@
+main {
+  padding: 2rem;
+}
+
+.main-container {
+  max-width: calc(900px + 4rem);
+  margin: 0 auto;
+}
+
+.main-post-item {
+  margin-bottom: 2rem;
+}
+
+.main-post-item:last-child {
+  margin-bottom: 0;
+}

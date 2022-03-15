@@ -1,0 +1,24 @@
+header {
+  color: #fff;
+  padding: 2rem;
+  background: linear-gradient(to right, #574ae8, #3ea1db);
+}
+
+.header-container {
+  max-width: calc(900px + 4rem);
+  margin: 0 auto;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-content h1 {
+  font-size: 1.5rem;
+}
+
+.header-search-input {
+  margin-top: 8rem;
+}
