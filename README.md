@@ -14,3 +14,4 @@ Repositório destinado aos desafios de [Iuricode](https://github.com/iuricode), 
 
 - [Vite - Boilerplate React com typescript](https://vitejs.dev/)
 - [Styled components](https://styled-components.com/)
+teste
