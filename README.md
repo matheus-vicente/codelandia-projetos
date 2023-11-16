@@ -1,17 +1,19 @@
 # Projetos codelândia
 
-Repositório destinado aos desafios de [Iuricode](https://github.com/iuricode), da Codelândia.
+Repositório destinado aos desafios de [Iuricode](https://github.com/iuricode), Codelândia.
 
-## Projeto 01
+## 🛠 Tecnologias utilizadas:
 
-### 🛠 Tecnologias utilizadas:
+### [Vite - Boilerplate React com typescript](https://vitejs.dev/)
+- <strong>Projeto 1</strong>
+- <strong>Projeto 2</strong>
+- <strong>Projeto 3</strong>
+- <strong>Projeto 4</strong>
 
-- [Vite - Boilerplate React com typescript](https://vitejs.dev/)
+### [Styled components](https://styled-components.com/)
+- <strong>Projeto 2</strong>
+- <strong>Projeto 3</strong>
+- <strong>Projeto 4</strong>
 
-## Projto 02
-
-### 🛠 Tecnologias utilizadas:
-
-- [Vite - Boilerplate React com typescript](https://vitejs.dev/)
-- [Styled components](https://styled-components.com/)
-teste
+### [NextJs](https://nextjs.org/) with [Tailwind](https://tailwindcss.com/)
+- <strong>Projeto 4</strong>
